@@ -25,6 +25,8 @@ http://localhost:8080/api/v1/people
 ## projeto publicado na nuvem:heroku atraves das aula disponibilizada pala Digital Innovation (Avanade Java Develope bootcamp)
 https://projapicelio.herokuapp.com/api/v1/people
 
+*Obs Os dados foram deletados para inserir deve ser realizado com Postmam e link conforme conta no Heroku.
+ 
 Foram necessários os seguintes pré-requisitos para a execução do projeto:
 
 * Java 11 ou versões superiores.
